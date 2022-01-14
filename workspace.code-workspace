@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "greetings"
+		},
+		{
+			"path": "capnp_schemas"
+		}
+	],
+	"settings": {}
+}
